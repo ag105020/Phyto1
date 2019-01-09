@@ -8,8 +8,8 @@ Preparation;
 2. Arrange path for each file
 
 Ploting figures;
-Note that each file has a flag for N limiting and P limiting
-"What_is_limiting=1  #0: P-limiting  1:N-limiting"
+Note that each file has a flag for N limiting and P limiting;
+"What_is_limiting=1  #0: P-limiting  1:N-limiting".
 Change values (0 or 1) according to the purpose.
 
 Fig. 3; Run a800_05_12_06
