@@ -20,8 +20,6 @@ Fig. 4; Run a800_05_12_06 (for subplots A and D),
 Fig. 5; Run a800_04_33_89 (for subplots A~C),
         For other subplots, first, run a800_05_12_06, a822_20_02, and a822_30_02_10 to create output files.
         Then, run a1000_01_04 for plotting them.
-        
-Fig. 7; Run a800_05_12_06
 
 Fig. S2; Run a800_04_60_11 and a800_04_70_11_10 for the figures in the top and bottom rows, respectively.
 
@@ -35,4 +33,6 @@ Fig. S5; Run a800_04_60_11 (For subplot A and B),
          Run a800_07_11_10 (For subplot C and D)
          
 Fig. S6; Run a800_05_12_06
+
+Fig. S7; Run a800_05_12_06
 
