@@ -12,27 +12,35 @@ Note that each file has a flag for N limiting and P limiting;
 "What_is_limiting=1  #0: P-limiting  1:N-limiting".
 Change values (0 or 1) according to the purpose.
 
-Fig. 3; Run a800_05_12_06
+Fig. 4; Run a800_05_12_07
 
-Fig. 4; Run a800_05_12_06 (for subplots A and D),
-        Run a800_04_43_05 (for other subplots)
-        
-Fig. 5; Run a800_04_33_89 (for subplots A~C),
-        For other subplots, first, run a800_05_12_06, a822_20_02, and a822_30_02_10 to create output files.
-        Then, run a1000_01_04 for plotting them.
+Fig. 5, 6; Run a800_05_12_06 (for subplot A),
+        Run a800_04_43_05 (for subplot B)
 
-Fig. S2; Run a800_04_60_11 and a800_04_70_11_10 for the figures in the top and bottom rows, respectively.
+Fig. 7; Run a800_04_33_90
 
-Fig. S3; Run a800_05_12_06 (for subplots A and D),
-         Run a800_04_43_05 (for other subplots)
+Fig. 8; First, run a800_05_12_06, a822_20_02, and a822_30_02_10 to create output files.
+        Then, run a1000_01_05 for plotting them.
+
+Fig. 10; Run a800_05_12_07
+
+Fig. 11; Run a800_04_33_91 (for subplot A),
+         Run 1100_00_01 (for subplot B),
+         Run a800_05_12_07_01 (for subplot C),
+         Run a1101_00_00 (for subplot D).
+
+Fig. S2; Run a800_04_60_11_01 and a800_04_70_11_10_01 for the figures in the top and bottom rows, respectively.
+
+Fig. S3; Run a800_04_43_57
+
+Fig. S4; Run a800_05_12_07 (for subplot i),
+         Run a800_04_43_06 (for other subplots)
          
-Fig. S4; Run a800_04_33_89 (For subplots A and B),
-         Run a800_05_12_06 (For subplot C)
+Fig. S5; Run a800_04_33_89 (For subplot A),
+         Run a800_05_12_07 (For subplot B)
          
-Fig. S5; Run a800_04_60_11 (For subplot A and B),
-         Run a800_07_11_10 (For subplot C and D)
+Fig. S6; Run a800_04_60_11_01 (For subplot A),
+         Run a800_07_11_10_01 (For subplot B)
          
-Fig. S6; Run a800_05_12_06
-
-Fig. S7; Run a800_05_12_06
+Fig. S7; Run a800_05_12_07
 
