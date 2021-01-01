@@ -1,3 +1,15 @@
+# Code Policy
+Please state “Cell Flux Model” and “Keisuke Inomura” in the acknowledgement when your
+publication includes the results based on the original/revised code. Or you may consider
+including Keisuke Inomura as a co-author depending on the contribution. In either case, the
+publication must cite the following paper:
+* Inomura K, Omta AW, Talmy D, Bragg J, Deutsch C, Follows MJ. 2020. A Mechanistic model of macromolecular allocation, elemental stoichiometry, and growth rate in phytoplankton. Frontiers in Microbiology 11:1–22.
+
+(Paper downloaded from https://www.inomura.com/papers)
+
+Keisuke Inomura (University of Rhode Island)
+inomura@uri.edu
+
 # Phyto1
 Phytoplankton model 1
 
